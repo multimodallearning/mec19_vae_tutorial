@@ -1,4 +1,4 @@
-# Tutorial: Abdominal CT Synthesis with Variational Autoencoders using PyTorch
+# Tutorial: Abdominal CT Image Synthesis with Variational Autoencoders using PyTorch
 By authors - Institute, University
 
 This repository is accompanied by a Medium Blog Post: 'Link To Medium Blog Post'
